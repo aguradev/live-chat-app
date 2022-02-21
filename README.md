@@ -4,4 +4,4 @@
 <li>Javascript (Ajax)</li>
 </ul>
 
-<p>hanya sebagai latihan, kedepannya akan dikembangkan</p>
+<p>hasil praktek, kedepannya akan dikembangkan</p>
